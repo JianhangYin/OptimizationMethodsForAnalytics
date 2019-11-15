@@ -1,2 +1,2 @@
 # OptimizationMethodsForAnalytics
-ISE-530
+Simple implementation for some basic methods in optimization method.
